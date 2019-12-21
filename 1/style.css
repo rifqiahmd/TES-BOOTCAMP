@@ -1,0 +1,107 @@
+.container {
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+#tx-nama{
+    margin-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 200px;
+}
+
+#combo-1{
+    margin-top: 10px;
+    padding-right: 150px;
+    padding-bottom: 10px;
+    background-color: white;
+}
+
+#tx-tgl{
+    margin-top: 10px;   
+    padding-right: 20px;
+    padding-bottom: 7px;
+    font-size: 14px;
+}
+
+#tx-hp{
+    margin-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 200px;
+}
+
+#tx-alamat{
+    margin-top: 10px;
+    padding-bottom: 40px;
+    padding-right: 200px;
+}
+
+#combo-2{
+    margin-top: 10px;
+    padding-right: 150px;
+    padding-bottom: 10px;
+    background-color: white;
+}
+
+#tx-agama-1{
+    background: #D1DFFC;
+    border-radius: 10px;
+}
+
+#tx-agama-2{
+    background: #D6EFFB;
+    border-radius: 10px;
+}
+
+#tx-agama-3{
+    background: #CCF3E9;
+    border-radius: 10px;
+}
+
+#tx-hobi-1{
+    background: #D1DFFC;
+    border-radius: 10px;
+}
+
+#tx-hobi-2{
+    background: #D6EFFB;
+    border-radius: 10px;
+}
+
+#tx-hobi-3{
+    background: #CCF3E9;
+    border-radius: 10px;
+}
+
+#tx-hobi-4{
+    background: #D9F5C9;
+    border-radius: 10px;
+}
+
+#tx-hobi-5{
+    background: #FCEABC;
+    border-radius: 10px;
+}
+
+.btn{
+    background-color: #3E80F1;
+    border-style: none;
+    border-radius: 10px;
+    font-size: 18px;
+    align-self: center;
+    text-align: center;
+    font-weight: 400;
+    padding: 0.5em 1.5em;
+    color: white;
+}
+
+.btn-lbl{
+    background-color: #FAFAFA;
+    border-style: none;
+    border-radius: 10px;
+    font-size: 18px;
+    align-self: center;
+    text-align: center;
+    font-weight: 400;
+    padding: 0.5em 1.5em;
+    color: #797979;
+}
